@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maazshakeel" alt="maazshakeel" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/procoder88" target="blank"><img src="https://img.shields.io/twitter/follow/procoder88?logo=twitter&style=for-the-badge" alt="procoder88" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hey_maaz" target="blank"><img src="https://img.shields.io/twitter/follow/procoder88?logo=twitter&style=for-the-badge" alt="hey_maaz" /></a> </p>
 
 - 🔭 I’m currently working on [Pomodoro-Timer App](https://github.com/maazshakeel/Pomodoro-Timer-App-React-Native)
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/procoder88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="procoder88" height="30" width="40" /></a>
+<a href="https://dev.to/hey_maaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="procoder88" height="30" width="40" /></a>
 <a href="https://twitter.com/procoder88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="procoder88" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://linkedin.com/in/procoder88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/procoder88" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15568160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15568160" height="30" width="40" /></a>
