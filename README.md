@@ -1,4 +1,4 @@
-<a href="https://ibb.co/WzffD71"><img src="https://i.ibb.co/FYzzsct/1.jpg" alt="1" border="0"></a>
+<a href="https://ibb.co/LSW6nnG"><img src="https://i.ibb.co/8Mp266h/Bubble-sort-thread.png" alt="Bubble-sort-thread" border="0"></a>
 
 # Muhammad Maaz
 I'm Muhammad, 14 year self-taught developer, based in Pakistan. Actually, I really enjoy learning. You can checkout my Twitter at https://twitter.com/hey_maaz.
