@@ -1,4 +1,5 @@
-<a href="https://ibb.co/LSW6nnG"><img src="https://i.ibb.co/8Mp266h/Bubble-sort-thread.png" alt="Bubble-sort-thread" border="0"></a>
+
+![jpeggihub](https://user-images.githubusercontent.com/62890173/141060829-3c16f2a5-3944-4d5a-9396-d18f4deb0931.gif)
 
 <h1 align="center">Hi 👋, I'm Maaz</h1>
 <h3 align="center">A passionate self-taught developer from Pakistan</h3>
