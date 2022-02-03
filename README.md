@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Maaz</h1>
 <h3 align="center">A passionate self-taught developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Pomodoro Timer App](https://github.com/maazshakeel/Pomdoro-Timer)
+- 🔭 I’m currently working on [Wiki](https://github.com/maazshakeel/Wiki)
 
 - 🌱 I’m currently learning Mobile App Development With React Native
 
