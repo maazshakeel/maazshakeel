@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Mobile App Development With React Native
 
-- 💬 Ask me about React and JavaScript
+- 💬 Ask me about React, TypesScript and JavaScript
 
 - 📫 How to reach me maaz.shakeel.bodla@gmail.com
 
