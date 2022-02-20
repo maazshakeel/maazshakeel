@@ -1,9 +1,14 @@
 
 ![jpeggihub](https://user-images.githubusercontent.com/62890173/141060829-3c16f2a5-3944-4d5a-9396-d18f4deb0931.gif)
 
-<h1 align="center">Hi 👋, I'm Maaz</h1>
-<h3 align="center">A passionate self-taught developer from Pakistan</h3>
-
+<h1 align="center">👋 Hi, I'm Maaz</h1>
+<p align='center'>
+<a href="https://dev.to/waylonwalker"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 - 🔭 I’m currently working on [Wiki](https://github.com/maazshakeel/Wiki)
 
 - 🌱 I’m currently learning Mobile App Development With React Native
