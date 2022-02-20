@@ -8,15 +8,9 @@
 <a href="https://instagram.com/codewithmaaz"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/maazshakeel/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
-- 🔭 I’m currently working on [Wiki](https://github.com/maazshakeel/Wiki)
+Hey there 👋,
 
-- 🌱 I’m currently learning Mobile App Development With React Native
-
-- 💬 Ask me about React, TypesScript and JavaScript
-
-- 📫 How to reach me maaz.shakeel.bodla@gmail.com
-
-- ⚡ Fun fact I eat a lot
+Building in public and curious.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.  You can checkout my Twitter: [@codewithmaaz](https://twitter.com/codewithmaaz).
 
 
 <h3 align="left">Languages and Tools:</h3>
