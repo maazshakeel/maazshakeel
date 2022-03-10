@@ -10,9 +10,3 @@
 Hey there 👋,
 
 I'm Muhammad, building in public and curious about learning.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.    Currently learning about startups, business and Entrepreneurship.  You can checkout my Twitter: [@codewithmaaz](https://twitter.com/codewithmaaz).
-
-### My Digital Garden 🌱
-
-I write regular blog posts, most of which you will find on my Twitter [@codewithmaaz](https://twitter.com/codewithmaaz).
-
-I write about things that I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I **build** things.
