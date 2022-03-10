@@ -9,4 +9,4 @@
 </p>
 Hey there 👋,
 
-I'm Muhammad, building in public and curious about learning.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.    Currently learning about startups, business and Entrepreneurship.  You can checkout my Twitter: [@codewithmaaz](https://twitter.com/codewithmaaz).
+I'm Muhammad, building in public and curious about learning.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.    Currently learning about startups, business and Entrepreneurship.  You can checkout my Twitter: [@mouhammed_maaz](https://twitter.com/mouhammed_maaz).
