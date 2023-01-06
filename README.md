@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/mouhammed_maaz" target="blank"><img src="https://img.shields.io/twitter/follow/mouhammed_maaz?logo=twitter&style=for-the-badge" alt="mouhammed_maaz" /></a> </p>
 
-- 🔭 I’m currently working on [Rapid Vocabulary Project](https://github.com/maazshakeel/Rapid-Vocabulary)
+- ⚒️ Building
 
-- 🌱 I’m currently learning **about APIs**
+- 🌱 I’m currently learning **Game Development**
 
-- 🤝 I’m looking for help with **Express JS**
+- 🤝 Let collaborate
 
 - 💬 Ask me about **React/React-Native, Web Development, DSA**
 
