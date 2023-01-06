@@ -1,5 +1,5 @@
 
-![jpeggihub](https://user-images.githubusercontent.com/62890173/141060829-3c16f2a5-3944-4d5a-9396-d18f4deb0931.gif)
+<img title="a title" alt="Alt text" src="Untitled design.png">
 
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
 <h3 align="center">A passionate self-taught developer based in Pakistan</h3>
