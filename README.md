@@ -5,9 +5,9 @@
 Hey! I'm Muhammad, a 15-year-old self-taught programmer who loves coding. <br>At the moment, I'm learning about 🤖 artificial intelligence, which I'm exploring and learning more about. <br>I also build projects to keep a strong grip on full-stack development skills (since I haven't built that many yet).<br><br>⚡ Fun fact: I love low-level and C is my favorite programming language.<br>I’m looking to collaborate 👯 on full-stack projects.
 
 
-<!--START_SECTION:SHOW_TIME-->
-true
-<!--END_SECTION:SHOW_TIME-->
+<!--START_SECTION:waka-->
+SHOW_TIME:true
+<!--END_SECTION:waka-->
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mouhammed_maaz) 
