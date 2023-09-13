@@ -1,5 +1,4 @@
-
-<img title="a title" alt="Alt text" src="Untitled design.png">
+![Untitled design (3)](https://github.com/maazshakeel/maazshakeel/assets/62890173/3475ec6c-4517-4b17-913a-8129676bfbbb)
 
 # 💫 About Me:
 Hey! I'm Muhammad, a 15-year-old self-taught programmer who loves coding. <br>At the moment, I'm learning about 🤖 artificial intelligence, which I'm exploring and learning more about. <br>I also build projects to keep a strong grip on full-stack development skills (since I haven't built that many yet).<br><br>⚡ Fun fact: I love low-level and C is my favorite programming language.<br>I’m looking to collaborate 👯 on full-stack projects.
