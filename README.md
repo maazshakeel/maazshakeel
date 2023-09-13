@@ -1,8 +1,14 @@
 ![Untitled design (3)](https://github.com/maazshakeel/maazshakeel/assets/62890173/3475ec6c-4517-4b17-913a-8129676bfbbb)
 
 # 💫 About Me:
-Hey! I'm Muhammad, a 15-year-old self-taught programmer who loves coding. <br>At the moment, I'm learning about 🤖 artificial intelligence, which I'm exploring and learning more about. <br>I also build projects to keep a strong grip on full-stack development skills (since I haven't built that many yet).<br><br>⚡ Fun fact: I love low-level and C is my favorite programming language.<br>I’m looking to collaborate 👯 on full-stack projects.
 
+Hello there! I'm Muhammad, a 15-year-old self-taught programmer with a passion for coding. Currently, my focus is on delving into the fascinating world of artificial intelligence 🤖, where I'm continuously expanding my knowledge.
+
+In addition to my AI explorations, I actively engage in project development to hone my full-stack development skills. Although I haven't completed an extensive number of projects, I'm dedicated to strengthening my grasp of this versatile skill set.
+
+Here's a fun tidbit about me: I have a profound appreciation for low-level programming, and my absolute favorite programming language is C. 🚀
+
+I'm eager to collaborate 👯 on full-stack projects, so if you're interested in working together, feel free to reach out!
 
 <!--START_SECTION:some-->
 <!--END_SECTION:some-->
