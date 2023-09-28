@@ -31,8 +31,7 @@ I'm eager to collaborate 👯 on full-stack projects, so if you're interested in
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=maazshakeel&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maazshakeel&show_icons=true&locale=en&layout=compact" alt="maazshakeel" /></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=maazshakeel&icon=8&color=12)](https://visitcount.itsvg.in)
@@ -42,8 +41,3 @@ I'm eager to collaborate 👯 on full-stack projects, so if you're interested in
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maazshakeel&show_icons=true&locale=en&layout=compact" alt="maazshakeel" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maazshakeel&show_icons=true&locale=en" alt="maazshakeel" /></p>
-
