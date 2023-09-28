@@ -28,7 +28,7 @@ I'm eager to collaborate 👯 on full-stack projects, so if you're interested in
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maazshakeel&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=mouhammed_maaz)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=mouhammed_maaz&theme=nightowl&response=true&border=true&time=true&icon=code"/></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
