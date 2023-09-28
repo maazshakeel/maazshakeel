@@ -27,16 +27,7 @@ I'm eager to collaborate 👯 on full-stack projects, so if you're interested in
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maazshakeel&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maazshakeel&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=mouhammed_maaz&theme=nightowl&response=true&border=true&time=true&icon=code"/></a>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maazshakeel&show_icons=true&locale=en&layout=compact" alt="maazshakeel" /></p>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=maazshakeel&icon=8&color=12)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/heyMaaz) 
