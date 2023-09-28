@@ -10,8 +10,8 @@ Here's a fun tidbit about me: I have a profound appreciation for low-level progr
 
 I'm eager to collaborate 👯 on full-stack projects, so if you're interested in working together, feel free to reach out!
 
-<!--START_SECTION:some-->
-<!--END_SECTION:some-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mouhammed_maaz)
