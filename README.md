@@ -1,4 +1,5 @@
-![Untitled design (3)](https://github.com/maazshakeel/maazshakeel/assets/62890173/3475ec6c-4517-4b17-913a-8129676bfbbb)
+![github_twitter_header](https://github.com/maazshakeel/maazshakeel/assets/62890173/b87d2bfe-b53b-4c29-a27e-626d51b078b9)
+
 
 # 💫 About Me:
 
